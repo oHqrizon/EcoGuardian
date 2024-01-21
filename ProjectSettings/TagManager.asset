@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Bat
+  - Lava
+  - ScreenShake
+  - NPC
+  - Fireball
+  - Bat1
+  - Bat2
+  - Chest1
+  - Seed
+  - Spider
+  - BeforePlant
+  - Slot1
+  - Slot2
+  - Slot3
+  - Slime
+  - Bat3
+  - Bat4
+  - Slime1
+  - Slime2
+  - MiniSpider
+  - Chest2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enviornment
+  - Water
+  - UI
+  - Water
+  - UI
+  - Post Processing
+  - MiniSpider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

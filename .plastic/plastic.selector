@@ -1,0 +1,4 @@
+repository "EcoGuardian@oHqrizon@cloud"
+  path "/"
+    br "/main"
+    co "/main"
